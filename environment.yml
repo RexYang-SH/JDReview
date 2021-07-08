@@ -7,7 +7,6 @@ dependencies:
   - pip
   - pip:
     - requests
-    - time
     - bs4
     - fake_useragent
     - json
