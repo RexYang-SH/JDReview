@@ -1,0 +1,15 @@
+name: jd-environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - pip
+  - pip:
+    - requests
+    - time
+    - bs4
+    - fake_useragent
+    - json
+    - csv
+    - io
