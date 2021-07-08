@@ -9,6 +9,3 @@ dependencies:
     - requests
     - bs4
     - fake_useragent
-    - json
-    - csv
-    - io
